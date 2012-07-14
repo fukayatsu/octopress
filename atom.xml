@@ -4,7 +4,7 @@
   <title><![CDATA[fukayatsu blog]]></title>
   <link href="http://fukayatsu.github.com/atom.xml" rel="self"/>
   <link href="http://fukayatsu.github.com/"/>
-  <updated>2012-07-14T13:59:00+09:00</updated>
+  <updated>2012-07-14T14:32:17+09:00</updated>
   <id>http://fukayatsu.github.com/</id>
   <author>
     <name><![CDATA[fukayatsu]]></name>
@@ -14,7 +14,74 @@
 
   
   <entry>
-    <title type="html"><![CDATA[posting-test]]></title>
+    <title type="html"><![CDATA[todo of july]]></title>
+    <link href="http://fukayatsu.github.com/blog/2012/07/14/todo-of-july/"/>
+    <updated>2012-07-14T14:24:00+09:00</updated>
+    <id>http://fukayatsu.github.com/blog/2012/07/14/todo-of-july</id>
+    <content type="html"><![CDATA[<h2>TODO</h2>
+
+<ul>
+<li>メールアドレス統合
+
+<ul>
+<li>fukayatsuに</li>
+</ul>
+</li>
+<li>PC移行
+
+<ul>
+<li>defaultをMacに</li>
+</ul>
+</li>
+<li>shell移行
+
+<ul>
+<li>zshに</li>
+</ul>
+</li>
+<li>ローカルサーバ
+
+<ul>
+<li>powに</li>
+</ul>
+</li>
+<li>rvm
+
+<ul>
+<li>rbenvに</li>
+</ul>
+</li>
+<li>エディタ
+
+<ul>
+<li>sublime text2 に？</li>
+</ul>
+</li>
+<li>ルーチンワーク
+
+<ul>
+<li>自動化する</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Done</h2>
+
+<ul>
+<li>ブログ移行
+
+<ul>
+<li>github + octpressに</li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[posting test]]></title>
     <link href="http://fukayatsu.github.com/blog/2012/07/14/posting-test/"/>
     <updated>2012-07-14T13:21:00+09:00</updated>
     <id>http://fukayatsu.github.com/blog/2012/07/14/posting-test</id>
