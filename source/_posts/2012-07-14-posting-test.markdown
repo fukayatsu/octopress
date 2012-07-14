@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "posting-test"
+title: "posting test"
 date: 2012-07-14 13:21
 comments: true
 categories: posting-test
