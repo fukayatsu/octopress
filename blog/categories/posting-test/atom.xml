@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: posting-test | My Octopress Blog]]></title>
+  <title><![CDATA[Category: posting-test | fukayatsu blog]]></title>
   <link href="http://fukayatsu.github.com/blog/categories/posting-test/atom.xml" rel="self"/>
   <link href="http://fukayatsu.github.com/"/>
-  <updated>2012-07-14T13:58:06+09:00</updated>
+  <updated>2012-07-14T13:59:00+09:00</updated>
   <id>http://fukayatsu.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[fukayatsu]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
