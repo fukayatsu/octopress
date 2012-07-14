@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://fukayatsu.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: posting-test | My Octopress Blog]]></title>
+  <link href="http://fukayatsu.github.com/blog/categories/posting-test/atom.xml" rel="self"/>
   <link href="http://fukayatsu.github.com/"/>
   <updated>2012-07-14T13:33:12+09:00</updated>
   <id>http://fukayatsu.github.com/</id>
