@@ -3,7 +3,7 @@ layout: post
 title: "todo of july"
 date: 2012-07-14 14:24
 comments: true
-categories: 
+categories:
 ---
 
 ## TODO
