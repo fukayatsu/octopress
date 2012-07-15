@@ -23,7 +23,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 67.0,
+		"height": 387.0,
 		"selected_items":
 		[
 			[
@@ -111,7 +111,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 602.0
 	},
 	"console":
 	{
@@ -128,12 +128,16 @@
 	},
 	"file_history":
 	[
+		"/Users/fukayatsu/octopress/config.ru",
+		"/Users/fukayatsu/octopress/Rakefile",
+		"/Users/fukayatsu/octopress/source/_includes/head.html",
+		"/Users/fukayatsu/octopress/source/_includes/post/sharing.html",
+		"/Users/fukayatsu/octopress/source/index.html",
 		"/Users/fukayatsu/octopress/_config.yml",
 		"/Users/fukayatsu/octopress/source/_posts/2012-07-15-a-way-to-learn-to-do-new-things.md",
 		"/Users/fukayatsu/octopress/source/_posts/2012-07-14-todo-of-july.markdown",
 		"/Users/fukayatsu/octopress/source/_posts/2012-07-14-posting-test.markdown",
 		"/Users/fukayatsu/octopress/source/_posts/2012-07-15-a-way-to-learn-to-do-new-things.markdown",
-		"/Users/fukayatsu/octopress/Rakefile",
 		"/Users/fukayatsu/try/test.txt",
 		"/Users/fukayatsu/github/zip-declare/opencv_test/test_ruby.rb",
 		"/Users/fukayatsu/github/zip-declare/opencv_test/test_face.rb",
@@ -244,6 +248,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"strip",
+			"capture",
+			"new_post",
 			"facebook",
 			"comment",
 			"vin",
@@ -325,6 +332,26 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"config.ru",
+				"config.ru"
+			],
+			[
+				"sharing",
+				"source/_includes/post/sharing.html"
+			],
+			[
+				"head",
+				"source/_includes/head.html"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"source/inde",
+				"source/index.html"
+			],
 			[
 				"chain",
 				"app/views/challenges/index.html.slim"
@@ -816,26 +843,6 @@
 			[
 				"sessionsc",
 				"app/controllers/sessions_controller.rb"
-			],
-			[
-				"applicationerb",
-				"app/views/layouts/application.html.erb"
-			],
-			[
-				"develo",
-				"config/environments/development.rb"
-			],
-			[
-				"deve",
-				"config/environments/development.rb"
-			],
-			[
-				"om",
-				"app/controllers/omniauth_callbacks_controller.rb"
-			],
-			[
-				"devise",
-				"config/initializers/devise.rb"
 			]
 		],
 		"width": 0.0
