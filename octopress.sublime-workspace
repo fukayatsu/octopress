@@ -128,12 +128,12 @@
 	},
 	"file_history":
 	[
+		"/Users/fukayatsu/octopress/_config.yml",
 		"/Users/fukayatsu/octopress/config.ru",
 		"/Users/fukayatsu/octopress/Rakefile",
 		"/Users/fukayatsu/octopress/source/_includes/head.html",
 		"/Users/fukayatsu/octopress/source/_includes/post/sharing.html",
 		"/Users/fukayatsu/octopress/source/index.html",
-		"/Users/fukayatsu/octopress/_config.yml",
 		"/Users/fukayatsu/octopress/source/_posts/2012-07-15-a-way-to-learn-to-do-new-things.md",
 		"/Users/fukayatsu/octopress/source/_posts/2012-07-14-todo-of-july.markdown",
 		"/Users/fukayatsu/octopress/source/_posts/2012-07-14-posting-test.markdown",
@@ -248,6 +248,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"profile",
 			"strip",
 			"capture",
 			"new_post",
@@ -332,6 +333,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"config",
+				"_config.yml"
+			],
 			[
 				"config.ru",
 				"config.ru"
@@ -839,10 +844,6 @@
 			[
 				"applicaerb",
 				"app/views/layouts/application.html.erb"
-			],
-			[
-				"sessionsc",
-				"app/controllers/sessions_controller.rb"
 			]
 		],
 		"width": 0.0
