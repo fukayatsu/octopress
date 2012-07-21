@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[fukayatsu-dev]]></title>
-  <link href="http://fukayatsu.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: うさみエンジニア | fukayatsu-dev]]></title>
+  <link href="http://fukayatsu.github.com/blog/categories/うさみエンジニア/atom.xml" rel="self"/>
   <link href="http://fukayatsu.github.com/"/>
   <updated>2012-07-22T00:42:49+09:00</updated>
   <id>http://fukayatsu.github.com/</id>
@@ -103,7 +103,7 @@ pull request / mergeの練習をしたりという感じでした。</p>
 <li>構成管理に関連したバージョン管理の話をちょろっと聞けた。
 
 <ul>
-<li>&#8220;git flow&#8221;はリリースbranchをmasterに限定しているので、1.x系と2.x系を同時にリリースしていく場合のhotfixをどうするのか？
+<li>"git flow"はリリースbranchをmasterに限定しているので、1.x系と2.x系を同時にリリースしていく場合のhotfixをどうするのか？
 
 <ul>
 <li>方向によってcherry-pick mergeと普通のmergeを使い分けるとか</li>
@@ -122,173 +122,6 @@ pull request / mergeの練習をしたりという感じでした。</p>
 <p><a href="http://togetter.com/li/342324">SCMBootCamp in Tokyo3 #scmbc - Togetter</a></p>
 
 <p><a href="http://tomykaira.rackbox.net/lt/lt.html">git の一歩その先に</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[octopress with pow]]></title>
-    <link href="http://fukayatsu.github.com/blog/2012/07/16/octopress-with-pow/"/>
-    <updated>2012-07-16T00:13:00+09:00</updated>
-    <id>http://fukayatsu.github.com/blog/2012/07/16/octopress-with-pow</id>
-    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/85825/Screenshots/mv63g2j1-e4e.png" title="こんなかんじ" alt="screen shot" /></p>
-
-<blockquote><p><a href="http://marutanm.github.com/blog/2012/01/07/octopress-preview-pow/">OctopressのpreviewをPowでやると便利ですよという話 > marutanmlog</a></p></blockquote>
-
-<p>でも言及されているように、octopress + powが良い感じ。</p>
-
-<p>また、powを便利に使うための<code>powder</code>というgemがあり、</p>
-
-<p>たとえば、</p>
-
-<pre><code>gem i powder
-cd path/to/octopress
-powder link
-</code></pre>
-
-<p>とすれば、<code>http://octopress.dev</code>でpreviewできる。</p>
-
-<p>また、<code>http://hogehoge.dev</code>でpreviewしたい場合は、</p>
-
-<pre><code>cd ~/.pow
-mv octopress hogehoge
-</code></pre>
-
-<p>のようにすればよい。</p>
-
-<p>あとは<code>rake watch</code>させておいて、いいかんじになったら<code>rake deploy</code>でok</p>
-
-<p>うーん、octopressといい、powといい、使っていて心地良い : )</p>
-
-<h4>余談:</h4>
-
-<p>screen shotを載せるために<a href="http://grabbox.devsoft.no/">GrabBox</a>というスクリーンキャプチャをつかってみた。これは<code>cmd+shift+4</code>などとした時に、
-デスクトップに生成された画像を自動的にDropboxへ移動して、public linkをクリップボードにコピーしてくれる。これはこれで便利。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[エディタやツールの移行について]]></title>
-    <link href="http://fukayatsu.github.com/blog/2012/07/15/a-way-to-learn-to-do-new-things/"/>
-    <updated>2012-07-15T19:59:00+09:00</updated>
-    <id>http://fukayatsu.github.com/blog/2012/07/15/a-way-to-learn-to-do-new-things</id>
-    <content type="html"><![CDATA[<p>※ 今回はあくまでローカルの開発環境の話ですm(_ _)m</p>
-
-<p>今までつかってきたテキストエディタやツールを何らかの理由で別のものに乗り換えるとき、
-有力な方法は今まで使っていたもの削除、もしくは簡単には使えないようにしてしまうことだと思う。</p>
-
-<p>そうでないと、何か新しいものを導入したとしても、ついつい慣れている以前のツールを使ってしまうことになりかねない。
-というか、自分がそうであるorz</p>
-
-<p>というわけで、手元のMacBookから以下を削除した。</p>
-
-<ul>
-<li>RVM</li>
-<li>MacVim</li>
-</ul>
-
-
-<p>うーん、以前書いていたはてなブログはどうしようかなぁ。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[todo of july]]></title>
-    <link href="http://fukayatsu.github.com/blog/2012/07/14/todo-of-july/"/>
-    <updated>2012-07-14T14:24:00+09:00</updated>
-    <id>http://fukayatsu.github.com/blog/2012/07/14/todo-of-july</id>
-    <content type="html"><![CDATA[<h2>TODO</h2>
-
-<ul>
-<li>メールアドレス統合
-
-<ul>
-<li>fukayatsuに</li>
-<li>appleIdとか移行</li>
-<li>パスワード強化</li>
-</ul>
-</li>
-<li>PC移行
-
-<ul>
-<li>defaultをMacに</li>
-</ul>
-</li>
-<li>shell移行
-
-<ul>
-<li>zshに</li>
-<li>dotfiles整理</li>
-</ul>
-</li>
-<li>ローカルサーバ
-
-<ul>
-<li>powに</li>
-</ul>
-</li>
-<li>rvm
-
-<ul>
-<li>rbenvに</li>
-</ul>
-</li>
-<li>エディタ
-
-<ul>
-<li>sublime text2 に？</li>
-</ul>
-</li>
-<li>ルーチンワーク
-
-<ul>
-<li>自動化する</li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Done</h2>
-
-<ul>
-<li>ブログ移行
-
-<ul>
-<li>github + octpressに</li>
-</ul>
-</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[posting test]]></title>
-    <link href="http://fukayatsu.github.com/blog/2012/07/14/posting-test/"/>
-    <updated>2012-07-14T13:21:00+09:00</updated>
-    <id>http://fukayatsu.github.com/blog/2012/07/14/posting-test</id>
-    <content type="html"><![CDATA[<p>今まではてなブログ、はてなダイアリーでブログを書いていたけれど、いい機会なので<code>github:pages</code>+<code>octopress</code>に移行してみる。</p>
-
-<p>いくつか理由を挙げると、</p>
-
-<ul>
-<li>markdownに慣れたい</li>
-<li>手元にソースを置いておきたい</li>
-<li>githubをもっと使いたい</li>
-<li>好きなエディタで記事を書きたい</li>
-</ul>
-
-
-<p>というかんじである。</p>
-
-<p>以下、TODO</p>
-
-<ul>
-<li>画像を簡単に挿入できるようにする(Dropbox?)</li>
-<li>テーマ変更</li>
-<li>良い記事を継続的に書く</li>
-<li>active reload的なことをしたい</li>
-</ul>
-
 ]]></content>
   </entry>
   
