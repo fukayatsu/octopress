@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "markdown形式でリンクをクリップボードにコピーするchrome-extension作った。"
+title: "markdown形式でリンクをクリップボードにコピーするchrome-extension作った"
 date: 2012-07-22 17:29
 comments: true
 categories: chrome-extensions
 ---
+2012-07-23　21:14　画像とか追加
 
-## 作ったもの
+![sTxwGfbZ9VgiRTaNld2TWpS9p6KJGUzL2p9mvhr6GpoF0-t_JXEynxmsS8Ejx-gFdhHzZUir=s640-h400-e365 (640×400)](https://lh3.googleusercontent.com/sTxwGfbZ9VgiRTaNld2TWpS9p6KJGUzL2p9mvhr6GpoF0-t_JXEynxmsS8Ejx-gFdhHzZUir=s640-h400-e365)
+
 > [Chrome Web Store - Markdown Linker](https://chrome.google.com/webstore/detail/kgadgjmlofjccpefhdagbonmohjknlll)
 
 
@@ -57,6 +59,5 @@ githubで使い方を見てRakefileを書いておく
 とりあえずこんな感じになった。
 
 ## TODO
-- アイコン作る
-- ストアのページを充実させる
+- 画像のalt textに対応する
 - ショートカットキーに対応する

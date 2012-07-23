@@ -23,9 +23,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 387.0,
+		"height": 67.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"ADD FO",
 				"Project: Add Folder"
@@ -79,10 +83,6 @@
 				"Package Control: Add Repository"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"instal",
 				"Package Control: Install Package"
 			],
@@ -111,7 +111,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 602.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -128,9 +128,11 @@
 	},
 	"file_history":
 	[
+		"/Users/fukayatsu/octopress/source/_posts/201207/2012-07-22-markdown-linker-for-chrome.md",
+		"/Users/fukayatsu/octopress/_config.yml",
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/fukayatsu/octopress/source/_posts/201207/2012-07-16-octopress-with-pow.md",
 		"/tmp/test.png",
-		"/Users/fukayatsu/octopress/_config.yml",
 		"/Users/fukayatsu/octopress/config.ru",
 		"/Users/fukayatsu/octopress/Rakefile",
 		"/Users/fukayatsu/octopress/source/_includes/head.html",
@@ -250,6 +252,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"github",
 			"`)",
 			" ",
 			"profile",
@@ -337,6 +340,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"confi",
+				"_config.yml"
+			],
 			[
 				"octopow",
 				"source/_posts/201207/2012-07-16-octopress-with-pow.md"
@@ -844,10 +851,6 @@
 			[
 				"appli",
 				"app/views/layouts/application.html.erb"
-			],
-			[
-				"welcom",
-				"app/controllers/welcome_controller.rb"
 			]
 		],
 		"width": 0.0
