@@ -2,4 +2,4 @@
 
 Dir::chdir(File.dirname(__FILE__))
 
-`rake new_post[#{ARGV[0]}]`
+`rake new_post["#{ARGV[0]}"]`
