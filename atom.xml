@@ -4,7 +4,7 @@
   <title><![CDATA[@fukayatsu.dev()]]></title>
   <link href="http://fukayatsu.github.com/atom.xml" rel="self"/>
   <link href="http://fukayatsu.github.com/"/>
-  <updated>2012-07-23T21:15:31+09:00</updated>
+  <updated>2012-07-24T00:44:59+09:00</updated>
   <id>http://fukayatsu.github.com/</id>
   <author>
     <name><![CDATA[fukayatsu]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[コンテキストメニューで画像のalt-textを取得する]]></title>
+    <link href="http://fukayatsu.github.com/blog/2012/07/24/get-image-alt-text-by-chrome-extension/"/>
+    <updated>2012-07-24T00:30:00+09:00</updated>
+    <id>http://fukayatsu.github.com/blog/2012/07/24/get-image-alt-text-by-chrome-extension</id>
+    <content type="html"><![CDATA[<p>前回の記事で宿題になっていたコンテキストメニューからimgタグのalt取得の件が解決した。
+content_script側でimgタグにイベントリスナを追加してやって、
+そこからaltタグの情報をメッセージとしてbackground_pageに送ってやればよかった。</p>
+
+<p><a href="https://github.com/fukayatsu/chrome-markdown-linker/blob/master/src/content_script.js">src/content_script.js</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[markdown形式でリンクをクリップボードにコピーするchrome-extension作った]]></title>

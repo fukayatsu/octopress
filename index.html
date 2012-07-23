@@ -9,9 +9,9 @@
   <meta name="author" content="fukayatsu">
 
   
-  <meta name="description" content="2012-07-23　21:14　画像とか追加 Chrome Web Store - Markdown Linker octopressでブログを書くようになって、markdownで文章を書く機会が増えた。
-しかしながら画像やリンクをmarkdown形式で挿入するのが若干面倒なので
-chrome &hellip;">
+  <meta name="description" content="前回の記事で宿題になっていたコンテキストメニューからimgタグのalt取得の件が解決した。
+content_script側でimgタグにイベントリスナを追加してやって、
+そこからaltタグの情報をメッセージとしてbackground_pageに送ってやればよかった。 src/ &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -72,7 +72,47 @@ chrome &hellip;">
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/07/22/markdown-linker-for-chrome/">Markdown形式でリンクをクリップボードにコピーするchrome-extension作った</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/07/24/get-image-alt-text-by-chrome-extension/">コンテキストメニューで画像のalt-textを取得する</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-24T00:30:00+09:00" pubdate data-updated="true">Jul 24<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>前回の記事で宿題になっていたコンテキストメニューからimgタグのalt取得の件が解決した。
+content_script側でimgタグにイベントリスナを追加してやって、
+そこからaltタグの情報をメッセージとしてbackground_pageに送ってやればよかった。</p>
+
+<p><a href="https://github.com/fukayatsu/chrome-markdown-linker/blob/master/src/content_script.js">src/content_script.js</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/07/22/markdown-linker-for-chrome/">markdown形式でリンクをクリップボードにコピーするchrome-extension作った</a></h1>
     
     
       <p class="meta">
@@ -172,7 +212,7 @@ sudo gem install crxmake
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/07/21/scmbc-tokyo-3/">#scmbc Tokyo 3 に行ってきました</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/07/21/scmbc-tokyo-3/">#scmbc tokyo 3 に行ってきました</a></h1>
     
     
       <p class="meta">
@@ -311,7 +351,7 @@ pull request / mergeの練習をしたりという感じでした。</p>
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/07/16/octopress-with-pow/">Octopress With Pow</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/07/16/octopress-with-pow/">octopress with pow</a></h1>
     
     
       <p class="meta">
@@ -431,7 +471,7 @@ mv octopress hogehoge
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/07/14/todo-of-july/">Todo of July</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/07/14/todo-of-july/">todo of july</a></h1>
     
     
       <p class="meta">
@@ -528,7 +568,7 @@ mv octopress hogehoge
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/07/14/posting-test/">Posting Test</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/07/14/posting-test/">posting test</a></h1>
     
     
       <p class="meta">
@@ -594,6 +634,10 @@ mv octopress hogehoge
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2012/07/24/get-image-alt-text-by-chrome-extension/">コンテキストメニューで画像のalt-textを取得する</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2012/07/22/markdown-linker-for-chrome/">markdown形式でリンクをクリップボードにコピーするchrome-extension作った</a>
       </li>
     
@@ -607,10 +651,6 @@ mv octopress hogehoge
     
       <li class="post">
         <a href="/blog/2012/07/15/a-way-to-learn-to-do-new-things/">エディタやツールの移行について</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/07/14/todo-of-july/">todo of july</a>
       </li>
     
   </ul>
