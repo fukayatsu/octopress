@@ -2,5 +2,7 @@
 
 Dir::chdir(File.dirname(__FILE__))
 
-`rake new_post["#{ARGV[0]}"]`
-`subl -w #{filename}`
+post_title = ARGV[0]
+result = `rake new_post["#{post_title}"]`
+result =~ /Creating new post: (.*)$/
+`subl #{$&}`
