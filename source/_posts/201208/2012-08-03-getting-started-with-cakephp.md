@@ -16,6 +16,12 @@ categories: cakephp, getting-started
 - xamppの経験はあんまりない
 - 開発環境はMac
 
+## 開発環境
+xampp for macを入れる
+
+[apache friends - xampp for mac os x](http://www.apachefriends.org/jp/xampp-macosx.html)
+
+
 ## php
 [PHP: PHP マニュアル - Manual](http://php.net/manual/ja/index.php)
 をひと通り読む。
