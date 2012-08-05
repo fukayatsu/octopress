@@ -1,0 +1,16 @@
+#!/usr/bin/env ruby
+
+OCTO_DIR = File.dirname(__FILE__)
+
+Dir::chdir(OCTO_DIR)
+
+post_title = ARGV[0]
+exit unless post_title
+
+result = `rake new_post["#{post_title}"]`
+result =~ /Creating new post: (.*)$/
+if ($1)
+  `subl #{$1}`
+else
+  exit
+end
