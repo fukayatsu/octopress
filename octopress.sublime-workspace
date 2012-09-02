@@ -140,6 +140,8 @@
 	},
 	"file_history":
 	[
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/fukayatsu/github/octopress/source/_posts/201209/2012-09-02-tddbc-yokohama-2nd.md",
 		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Eiffel.tmTheme",
 		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/SpaceCadet.tmTheme",
 		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Twilight.tmTheme",
@@ -155,7 +157,6 @@
 		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/subl",
 		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/RubyTest/Default.sublime-keymap",
 		"/Users/fukayatsu/github/octopress/octnew",
-		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/fukayatsu/github/octopress/.git/MERGE_MSG",
 		"/Users/fukayatsu/octopress/source/_posts/201207/2012-07-22-markdown-linker-for-chrome.md",
 		"/Users/fukayatsu/octopress/_config.yml",
@@ -280,6 +281,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"最初にペアを組んだ方が全くといっていいほど同じ環境だったので非常にスムーズだった。",
+			"Rspec参加してきました。",
 			"markdup",
 			"head",
 			"mark",

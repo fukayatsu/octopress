@@ -3,7 +3,7 @@ layout: post
 title: "TDDBC横浜 Second Seasonに参加しました"
 date: 2012-09-02 20:47
 comments: true
-categories:
+categories: tddbc tdd workshop yokohama ペアプロ bootcamp
 ---
 
 9/1に行われた
@@ -56,9 +56,11 @@ RSpecのよりよい書き方は[RSpec](http://kerryb.github.com/iprug-rspec-pre
 <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=atsfky-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4798121932" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 とかで勉強していきます。
 
-# 弁当
+# お昼休憩
 同じテーブルの人たちでポジションペーパーを見ながら、今どんなことやってるとかを話しながらお弁当食べた。  
 「TDDいいと思うしやりたいと思うけど、なかなかできないよねー」とかとか。
+
+あとグリーンバンドを買いました。
 
 # ペアプロ
 2回め終了時のコードがこちら: 
@@ -76,7 +78,7 @@ RSpecのよりよい書き方は[RSpec](http://kerryb.github.com/iprug-rspec-pre
 <iframe src="http://rcm-jp.amazon.co.jp/e/cm?lt1=_blank&bc1=000000&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=atsfky-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4798116831" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 
-↓ こっちじゃんけんで買って頂いたもの
+↓ こっちは懇親会でじゃんけんで買って頂いたもの（横浜賞とのことでした）
 
 
 <a href="http://www.amazon.co.jp/gp/product/0131495054/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=0131495054&linkCode=as2&tag=atsfky-22"><img border="0" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&ASIN=0131495054&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=atsfky-22" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=atsfky-22&l=as2&o=9&a=0131495054" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
