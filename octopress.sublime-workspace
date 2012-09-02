@@ -23,9 +23,25 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 67.0,
+		"height": 47.0,
 		"selected_items":
 		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublim",
+				"SublimeCodeIntel: Enable Plugin"
+			],
+			[
+				"sublime code",
+				"SublimeCodeIntel: Disable Plugin"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -33,10 +49,6 @@
 			[
 				"ADD FO",
 				"Project: Add Folder"
-			],
-			[
-				"install pa",
-				"Package Control: Install Package"
 			],
 			[
 				":w",
@@ -128,6 +140,23 @@
 	},
 	"file_history":
 	[
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Eiffel.tmTheme",
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/SpaceCadet.tmTheme",
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Twilight.tmTheme",
+		"/Users/fukayatsu/github/octopress/Rakefile",
+		"/Users/fukayatsu/github/octopress/source/_posts/201208/2012-08-01-career-move.md",
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/LAZY.tmTheme",
+		"/Users/fukayatsu/github/octopress/source/_posts/201208/2012-08-31-kpt-of-august.md",
+		"/Users/fukayatsu/github/octopress/config.rb",
+		"/Users/fukayatsu/github/octopress/sass/_base.scss",
+		"/Users/fukayatsu/github/octopress/sass/partials/_archive.scss",
+		"/Users/fukayatsu/github/octopress/README.markdown",
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/subl",
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/RubyTest/Default.sublime-keymap",
+		"/Users/fukayatsu/github/octopress/octnew",
+		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/fukayatsu/github/octopress/.git/MERGE_MSG",
 		"/Users/fukayatsu/octopress/source/_posts/201207/2012-07-22-markdown-linker-for-chrome.md",
 		"/Users/fukayatsu/octopress/_config.yml",
 		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
@@ -194,7 +223,6 @@
 		"/Users/fukayatsu/heroku/temp/config/routes.rb",
 		"/Users/fukayatsu/heroku/jankens/Gemfile",
 		"/Users/fukayatsu/heroku/jankens/db/migrate/20120624045156_create_users.rb",
-		"/Users/fukayatsu/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/fukayatsu/heroku/jankens/app/views/layouts/application.html.erb",
 		"/Users/fukayatsu/heroku/jankens/public/index.html",
 		"/Users/fukayatsu/heroku/jankens/public/robots.txt",
@@ -252,6 +280,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"markdup",
+			"head",
+			"mark",
+			"B90690",
+			"markup.",
+			"list",
 			"github",
 			"`)",
 			" ",
@@ -340,6 +374,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"08",
+				"source/_posts/201208/2012-08-01-career-move.md"
+			],
+			[
+				"kpt",
+				"source/_posts/201208/2012-08-31-kpt-of-august.md"
+			],
 			[
 				"confi",
 				"_config.yml"
@@ -843,14 +885,6 @@
 			[
 				"application",
 				"config/application.rb"
-			],
-			[
-				"applicatio",
-				"app/controllers/application_controller.rb"
-			],
-			[
-				"appli",
-				"app/views/layouts/application.html.erb"
 			]
 		],
 		"width": 0.0
