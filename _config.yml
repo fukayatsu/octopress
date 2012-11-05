@@ -70,6 +70,9 @@ github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
+# CoderWall
+coderwall_user: fukayatsu
+
 # Twitter
 twitter_user: fukayatsu
 twitter_tweet_count: 4
