@@ -47,7 +47,7 @@ function linkifyTweet(text, url) {
 
   // Use twitter's api to replace t.co shortened urls with expanded ones.
   for (var u in url) {
-    if(url[u].expanded_url != null){
+    if(url[u] && url[u].expanded_url != null){
       var shortUrl = new RegExp(url[u].url, 'g');
       text = text.replace(shortUrl, url[u].expanded_url);
       var shortUrl = new RegExp(">"+(url[u].url.replace(/https?:\/\//, '')), 'g');

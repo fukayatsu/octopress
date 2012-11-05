@@ -5,15 +5,18 @@
   </ul>
   <div id="coderwall_badges"></div>
   <a href="http://coderwall.com/{{site.coderwall_user}}">@{{site.coderwall_user}}</a> on coderwall
+  <link rel="stylesheet" href="/stylesheets/tipsy.css" type="text/css" />
+  <script type='text/javascript' src='/javascripts/jquery.tipsy.js'></script>
   <script type="text/javascript">
     $(document).ready(function(){
       $.getJSON("http://coderwall.com/{{site.coderwall_user}}.json?callback=?", function(data){
         for(var i = 0; i < data.data.badges.length ; i++){
           var badge = data.data.badges[i];
           var badge_tag = $("<img />");
+          badge_tag.css("width", "25%");
           badge_tag.attr("src",badge.badge);
-          badge_tag.attr("title", badge.name + ": " + badge.description);
-          badge_tag.css("width","30%");
+          badge_tag.attr("title", "<strong>" + badge.name + "</strong><br>" + badge.description);
+          badge_tag.tipsy({gravity: 'se', html: true});
           $("#coderwall_badges").append(badge_tag);
         }
       });
