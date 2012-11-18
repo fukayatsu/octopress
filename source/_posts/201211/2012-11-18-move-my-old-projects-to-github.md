@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "move-my-old-pojects-to-github"
+title: "昔開発してたプロジェクトをgithubに移行した"
 date: 2012-11-18 12:23
 comments: true
 external-url:
@@ -18,7 +18,7 @@ categories: github my-old-projects
 そういうのを防ぐために、今回Dropboxの`creation`フォルダの中から一応形になっている物をgithubに移動した(もちろん形になっていないやりかけのプロジェクトの方が多い)
 。
 
-### projectをgithubで公開することは他にも意義があると思っている。
+### projectをgithubで公開することは他にも意義がある
 例えば、
 
 - 自分はこういう言語・プロジェクトに興味があると知ってもらえるかも
