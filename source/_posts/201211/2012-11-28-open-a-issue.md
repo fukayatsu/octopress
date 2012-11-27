@@ -4,7 +4,7 @@ title: "issue投げよう"
 date: 2012-11-28 00:45
 comments: true
 external-url: 
-categories: 
+categories: github issues gem action_args ruby
 ---
 
 昨日の自分へ
