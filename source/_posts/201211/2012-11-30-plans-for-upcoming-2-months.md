@@ -13,6 +13,7 @@ categories: plan todo
 - 12/02(日) [CakePHP](http://www.adventar.org/calendars/40)
 - 12/03(月) [女帝](http://atnd.org/events/34298)
 - 12/09(日) [Sublime Text 2](http://www.adventar.org/calendars/20)
+- 12/09(日) [Ruby](http://qiita.com/advent-calendar/2012/ruby)
 - 12/21(金) [TDD](http://atnd.org/events/33846)
 - 01/02(水) [Vim](http://atnd.org/events/33746)
 
