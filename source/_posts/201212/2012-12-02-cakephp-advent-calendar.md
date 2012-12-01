@@ -7,9 +7,7 @@ external-url:
 categories: advent-calendar cakephp cakes
 ---
 
-こんにちは、fukayatsuです。
-
-※ この記事は[CakePHP Advent Calendar 2012](http://www.adventar.org/calendars/40)の2日目の記事です。
+この記事は[CakePHP Advent Calendar 2012](http://www.adventar.org/calendars/40)の2日目の記事です。
 
 [4ヶ月前の記事](http://fukayatsu.github.com/2012/08/03/getting-started-with-cakephp/)
 に
