@@ -19,6 +19,7 @@ categories: plan todo
 
 ## コミュニティ
 - 12/07(金) [t2study](http://connpass.com/series/231/)#1 > LT(hubotについて) 10分
+- 12/08(土) [RejectTokyoRubyKaigi10](http://reject-tkrk10.doorkeeper.jp/events/1974) > LT(「コードの世界」を読んで[仮]) 多分3分ぐらい
 - 12/15(土) [DevLOVE 2012](http://devlove2012.devlove.org/) > LT(転職について) 3分
 - 12/19(水) [渋谷.rb](http://www.zusaar.com/user/agxzfnp1c2Fhci1ocmRyFQsSBFVzZXIiCzE4ODkzNjY1X3R3DA) > LT(コミュニティ紹介 :練習) 5分
 - 12/21(金) [t2study](http://connpass.com/series/231/)#2 > LT(未定) 10分
