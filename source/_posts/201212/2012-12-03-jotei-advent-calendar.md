@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jotei-advent-calendar"
+title: "hubot jotei > 女帝 Advent Calendar 2012(3日目)"
 date: 2012-12-03 00:00
 comments: true
 external-url:
@@ -34,7 +34,7 @@ twitterへの投稿（140文字）でも構いません。複数にわたる場�
 [HUBOT](http://hubot.github.com/)
 で参加したいと思います。
 
-#### hubotとは
+## hubotとは
 githubが公開しているnode.jsによる実装のbotフレームワークです。  
 irc, twitter, hipchatなど、いろいろなサービスのアダプターが開発されており、  
 coffee-scriptで独自のコマンドを追加することができます。
@@ -49,19 +49,22 @@ hubot     | cakes.mu にデプロイ完了しました(｀・ω・´)
 このあたりの事は、いずれまたどこかで詳しくまとめたいと思います。
 
 
-### hubot jotei
+## hubot jotei
 さて本題ですが、こんなコマンドを追加しました。
 
-- デモ
-- Gist
 
-- ネタ考え中
-  - hubot jotei
-  - hubot jotei image
-  - hubot jotei tweet
+{% gist 4188057 %}
+
+こんな感じになります。
+
+![](https://dl.dropbox.com/u/85825/blog/image/hubot-jotei-img.png)
+
+![](https://dl.dropbox.com/u/85825/blog/image/hubot-jotei-status.png)
+
+便利ですね(?)
 
 
-### その他
+## その他
 そういえば、自分がいろいろなサービスでできるだけ同じアカウント名を使うようになったきっかけは @yamashitam だったような気がする。
 
 
