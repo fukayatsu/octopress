@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CakePHPと僕とcakes"
+title: "CakePHPと僕とcakes (CakePHP Advent Calender2012 2日目)"
 date: 2012-12-02 00:00
 comments: true
 external-url:
@@ -17,24 +17,47 @@ categories: advent-calendar cakephp cakes
 
 
 -----
-- 伝えたいこと
-  - cakesをCakePHPで作っています
-    - こんなサイトだよ
-      - 購読してね
-        - 150円 / 週だよ
-    - こんなところにハマったよ
-      - キャッシュ消さないとモデルが反映されない
-      - usesを上書きしちゃったよ
-    - こんなことが良かったよ
-      - PHP出来る人が多いよ
-      - PHPのコードが読めるようになったよ
-    - PHP系の勉強会行ったことがないよ ※1
-    - エンジニア募集中だよ ※2
-  - でも後でRailsに移行するよ？
-    - start up ruby読むといいよ
-    - PHPもやれるけどRuby好きな人募集中だよ ※2
-  - 休日にPHP書く気にはなれないよ ※1
+
+## 株式会社ピースオブケイクという会社でcakesというサービスをCakePHPでつくっています
+
+- [- Piece of Cake, inc.](http://www.pieceofcake.co.jp/)
+- [cakes.mu](https://cakes.mu)
+
+{% img https://dl.dropbox.com/u/85825/blog/image/cakes_top.png cakes %}  
+
+cakesは月額150円で雑誌読み放題というようなサービスです。  
+今のところはサブカル系な記事が多いみたいです。  
+(どこからどこまでがサブカル系なのかは未だよくわかっていません)  
+
+
+無料記事もあるので良かったら[覗いてみてください](https://cakes.mu)
+
+## CakePHP/PHPについて
+CakePHPもPHPも触り始めてから4ヶ月程度ですが、思ったことを書いてみます。  
+ちなみにcakesはCakePHP2.2.3で動いています。
+
+- いろいろRailsっぽかったり、そうじゃなかったり
+  - bakeとかroutesとか
+  - え、Modelがオブジェクトじゃなくて配列返すの？
+    - 3.0以降はオブジェクト返すようになるらしい
+- いろいろハマった
+  - [CakePHPで独自の共通コントローラを継承させて使用する - tomstay's memo](http://tomstay.hatenablog.jp/entry/20110329/1301419761)
+  - [CakePHPのモデルのキャッシュではまった －新しく追加したカラムに値が入らない－ - PPl@ce](http://pplace.jp/2011/06/158/)
+  - などなど
+- PHPいじれる人が多い
+  - デザイナーさんでもある程度いじれるし、PHP経験したことがあるエンジニアは多い
+
+
+
+## cakesではエンジニアを募集中です
+開発環境とかは[github.com/pocake/readme](https://github.com/pocake/readme)のあたりに書いています :)
+
+CakePHPのアドベントカレンダーを書いておいてアレなのですが、  
+cakesはrailsへの移行を計画中です。
+
+なのでCakePHP/PHPを経験したことがあって(なくてもいい)Ruby界隈の文化が好きな人いないかなー
 
 -----
+半分以上宣伝になってしまいましたが、この4ヶ月の僕とCakePHPの関わりはこんな感じでした。
 
-明日はTLでもよくお見かけする[@cakephper](https://twitter.com/cakephper)さんです
+明日はTLでもよくお見かけする[@cakephper](https://twitter.com/cakephper)さんです！
