@@ -22,6 +22,13 @@ twitterへの投稿（140文字）でも構いません。複数にわたる場�
 女帝に関するものならどんなことでも構いません。
 参考 : 女帝 Advent Calendar 2011 : ATND
 ```
+
+
+追記(12/4):  
+一つ前の記事は[女帝 Advent Calendar 2012 2日目「女帝ってこんなんだった」 - へたれ日記](http://d.hatena.ne.jp/arc680/20121202/1354374076)  
+一つ後の記事は[合わないだなんて言わないで - Togetter](http://togetter.com/li/417761)  
+です
+
 ---
 去年の
 [女帝 Advent Calendar 2011](http://atnd.org/events/22939)

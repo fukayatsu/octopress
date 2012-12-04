@@ -15,6 +15,13 @@ categories: advent-calendar cakephp cakes
 
 と書いた通り参加することができました :)
 
+追記(12/04):  
+一つ前の記事は  
+[CakePHP2.2.3でFacebook連携して自分の友達の女の子の画像を一覧で見てみる - tagamidaiki.com](http://tagamidaiki.com/cakephp2-facebook-connect-cakeadvent2012/)
+
+一つ後の記事は  
+[CookBookの翻訳差分チェックサイト作りました - cakephperの日記](http://d.hatena.ne.jp/cakephper/20121203/1354524441)  
+です。
 
 -----
 
