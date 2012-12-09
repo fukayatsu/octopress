@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sublime-text-2-advent-calendar"
+title: "ST2からTwitterに投稿するプラグイン作った"
 date: 2012-12-09 16:55
 comments: true
 external-url: 
