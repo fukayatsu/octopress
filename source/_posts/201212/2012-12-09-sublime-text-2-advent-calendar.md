@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "sublime-text-2-advent-calendar"
-date: 2012-12-09 00:00
+date: 2012-12-09 16:55
 comments: true
 external-url: 
 categories: advent_calendar sublime_text_2 st2
