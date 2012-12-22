@@ -15,6 +15,13 @@ categories: tdd xfd advent_calendar
 [ひのきの棒を駆使してレガシーコードに立ち向かう](http://poohsunny.hatenablog.com/entry/2012/12/20/110958)
 でした。
 
+
+追記(2012-12-22):  
+次の記事は[@YasuOza](https://twitter.com/YasuOza)
+さんの
+[TDDを取り入れたい誰かのために](https://gist.github.com/4358171)
+です。
+
 ---
 
 今年の9月に[TDDBC横浜 Second Seasonに参加した](http://fukayatsu.github.com/2012/09/02/tddbc-yokohama-2nd/)
