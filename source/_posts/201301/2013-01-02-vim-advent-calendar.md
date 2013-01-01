@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vimとかと僕"
+title: "Vimと僕とSublime"
 date: 2013-01-02 00:00
 comments: true
 external-url: 
@@ -67,7 +67,7 @@ WindowsだけではなくMacとLinuxも触り始めたので、
 このへんです。このブランチはもう使っていないのですが、  
 Shougoさんやthincaさんのプラグインには大変お世話になっております。
 
-#### pluginつくったりした
+#### vim-pluginつくったりした
 [fukayatsu/vim-diary · GitHub](https://github.com/fukayatsu/vim-diary)
 
 日記を書くときに、前の日のTODOを当日のDONEとかにコピペすることが多かったので、  
@@ -129,7 +129,9 @@ VimユーザがSublime Text 2を快適に使うためには多少設定が必要
 > [OS X Command Line - Sublime Text 2 Documentation](http://www.sublimetext.com/docs/2/osx_command_line.html)
 
 ## おわりに
-たとえVimがメインのエディタじゃなくなっても、これからもVim的なエディタでVim的な操作をしていく事に変わりはありません。
+サーバ上では変わらずVimを使っておりますし、たとえVimがメインのエディタじゃなくなっても、これからもVim的なエディタでVim的な操作をしていく事に変わりはありません。
+
+ということでVimユーザの皆様、今年もよろしくお願いします。
 
 
 明日は[@masudaK](https://twitter.com/masudaK)さんです :)
