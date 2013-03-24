@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zusaarのrubygem作った"
+title: "zusaarのgem作った"
 date: 2013-03-24 20:48
 comments: true
 external-url:
