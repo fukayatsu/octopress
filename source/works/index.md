@@ -9,7 +9,7 @@ footer: true
 
 個人的に作ったものリスト
 
-# web
+# web service
 - [みつをる](http://mitsuwo.net/)
     - み◯を風フォントで縦書ジェネレータ
     - rails 4 beta + ruby 2.0.0を試す為に作成
@@ -18,6 +18,16 @@ footer: true
 - [Jankens](http://jankens.net/)
     - twitterアカウントで他の人とじゃんけんする
     - heroku
+
+# rubygems
+[rubygems.org/profiles/fukayatsu](https://rubygems.org/profiles/fukayatsu)
+
+- [zusaar](https://rubygems.org/gems/zusaar)
+    - A Ruby interface to the Zusaar API.
+- [pebbles-soreyuke](https://rubygems.org/gems/pebbles-soreyuke)
+    - [CLIで手軽にカレーパンマンに喋らせたい #RubyGem #pebbles - Qiita](http://qiita.com/items/19807642971ebcc92f52)
+- [bbs2ch](https://rubygems.org/gems/bbs2ch)
+    - 2chアクセス(read only)
 
 # chrome extension
 [chrome.google.com/webstore/search-extensions/fukayatsu](https://chrome.google.com/webstore/search-extensions/fukayatsu)
@@ -50,14 +60,6 @@ footer: true
     - ページ送りとレーザーポインターっぽい機能がある
     - windows用のクライアントソフト(C#製)が必要
 
-# rubygems
-[rubygems.org/profiles/fukayatsu](https://rubygems.org/profiles/fukayatsu)
-
-- [pebbles-soreyuke](https://rubygems.org/gems/pebbles-soreyuke)
-    - [CLIで手軽にカレーパンマンに喋らせたい #RubyGem #pebbles - Qiita](http://qiita.com/items/19807642971ebcc92f52)
-- [bbs2ch](https://rubygems.org/gems/bbs2ch)
-    - 2chアクセス(read only)
-
 # twitter bot
 - [fukayatsu_room (fukayatsu_room) on Twitter](https://twitter.com/fukayatsu_room)
     - 自室の情報をtweet
@@ -78,5 +80,10 @@ footer: true
     - 上記から一定時間経過するとアイコンを変更する(red)
     - rackhub.net
     - ruby
+
+# slides
+- https://speakerdeck.com/fukayatsu
+- http://www.slideshare.net/atsuofukaya
+
 
 他にもあるような無いような
