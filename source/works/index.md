@@ -10,6 +10,11 @@ footer: true
 個人的に作ったものリスト
 
 # web service
+- [Git AboutMe](http://git-about.me/)
+    - "ABOUT ME" for Git users
+    - rails 4 rc1
+    - 作りかけ
+
 - [みつをる](http://mitsuwo.net/)
     - み◯を風フォントで縦書ジェネレータ
     - rails 4 beta + ruby 2.0.0を試す為に作成
