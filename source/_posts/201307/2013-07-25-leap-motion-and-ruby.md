@@ -9,7 +9,7 @@ categories: leap-motion ruby wip
 
 ![](https://lh6.googleusercontent.com/-r7Cit35PdGs/Ue1PUJS9T3I/AAAAAAAAOrU/15GcUYE-Gc4/w739-h555-no/IMG_20130723_001953-MOTION.gif)
 
-> ↑ leap motionのデモアプリで遊んでいる図
+↑ leap motionのデモアプリで遊んでいる図
 
 ---
 
@@ -20,13 +20,14 @@ categories: leap-motion ruby wip
 
 せっかくなので自分でも何か作ろうと思って[Developerページ](https://developer.leapmotion.com/docs)を見ると、
 今のところ公式にSDKが存在するのは
+
 - C++
 - Java
 - Python
 - C# and Unity
 - JavaScript
 
-の5つで、残念ながらRubyのSDKは無かった。
+の5つ(6つ？)で、残念ながらRubyのSDKは無かった。
 
 ということで、以下Leap MotionをRubyで使うためにやったことの雑記
 
@@ -42,7 +43,7 @@ categories: leap-motion ruby wip
 この`ruby-leap-motion`は`SWIG`というのを使っているらしかった。
 
 > [SWIG - Wikipedia](http://ja.wikipedia.org/wiki/SWIG)  
-SWIG (Simplified Wrapper and Interface Generator) は、 C/C++ で書かれたプログラムやライブラリを、Tcl/Tk、Perl、Python、Ruby、PHP、Lua などのスクリプト言語や、Java、C#、Scheme、Ocaml などの言語に接続するためのオープンソースのツールである。
+  SWIG (Simplified Wrapper and Interface Generator) は、 C/C++ で書かれたプログラムやライブラリを、Tcl/Tk、Perl、Python、Ruby、PHP、Lua などのスクリプト言語や、Java、C#、Scheme、Ocaml などの言語に接続するためのオープンソースのツールである。
 
 
 > [ruby-leap-motion/ext/swig/Leap.i at master · glejeune/ruby-leap-motion](https://github.com/glejeune/ruby-leap-motion/blob/master/ext/swig/Leap.i)
