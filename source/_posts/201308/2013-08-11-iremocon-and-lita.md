@@ -44,7 +44,7 @@ hipchatのAndroidアプリ
 - [fukayatsu/home-lita](https://github.com/fukayatsu/home-lita)
     - 本体
 - [jimmycuadra/lita](https://github.com/jimmycuadra/lita)
-    - ざっくり言うとhubotのRuby版。userの権限管理とかもできる
+    - ざっくり言うとhubot(github製bot framework)のRuby版。userの権限管理とかもできる
     - ちょっと前に会社のhipchat上のbotをhubotからlitaに置き換えたら結構良かったので、今回採用
 - [jimmycuadra/lita-hipchat](https://github.com/jimmycuadra/lita-hipchat)
     - litaのhipchat adapter
@@ -52,6 +52,8 @@ hipchatのAndroidアプリ
     - lita上でcron的なことをするやつ。とりあえず動くぐらいの完成度
 - [r7kamura/iremocon](https://github.com/r7kamura/iremocon)
     - iremoconのrubyインタフェース
+- [austinbv/dino](https://github.com/austinbv/dino)
+    - [Arduino買ったのでRubyとDinoでLチカした - fukayatsu.dev](http://blog.fukayatsu.com/2013/01/23/hello-arduino-with-ruby-and-dino/)を参照
 
 # これからやりたいこと
 - 音声認識、音声再生を復活させたい
